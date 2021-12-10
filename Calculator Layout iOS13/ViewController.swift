@@ -111,5 +111,9 @@ class ViewController: UIViewController {
     
 }
     
+<<<<<<< HEAD
 // test sourcetree
+=======
+// text comment
+>>>>>>> 34c930bbdcdd8590536b4513ed6889cedde98f22
 
